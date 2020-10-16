@@ -51,11 +51,16 @@ a {
   padding: 10px;
 }
 
+.list {
+  
+}
+
 .learn {
   color: rgb(230, 16, 16);
   background-color: #f3f5f4da;
   font-style: normal;
   font-size: 18px;
+  margin: 70px;
 }
 
 .best {
