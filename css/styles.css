@@ -10,20 +10,31 @@ p {
   color: #fa7854;
 }
 
-li {
-  color:#fa7854;
-  font-size: 20px;
-}
-
-.sidetext {
-  color:white;
-}
-
 a {
   color:blue;
 }
 
- .glen {
+li {
+  color:#fa7854;
+  font-size: 20px;
+}
+.best {
+  background-color: rgb(0, 0, 0);
+}
+
+.centerimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 18%;
+}
+
+.gain {
+  text-align: center;
+  color: #fa7854;
+}
+
+.glen {
   text-align: center;
   color: #fa7854;
   font-size: 58px;
@@ -34,25 +45,9 @@ a {
   color: rgb(250, 120, 84);
   font-size: 35px;
 }
-.centerimage {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 18%;
-}
 
 .hobbies {
   width: 8%
-}
-.sidebar {
-  float: right;
-  color: white;
-  font-size: 20px;
-  padding: 10px;
-}
-
-.list {
-  
 }
 
 .learn {
@@ -61,28 +56,24 @@ a {
   font-style: normal;
   font-size: 18px;
   margin: 70px;
-}
-
-.best {
-  background-color: rgb(0, 0, 0);
-}
+} 
 
 p .leartext {
   color: black;
+}
+
+.sidetext {
+  color:white;
+}
+
+.sidebar {
+  float: right;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
 }
 
 p.smalltext {
   color:white;
   font-size: 14px;
 }
-
-.gain {
-  text-align: center;
-  color: #fa7854;
-}
-
-/* img {
-  width: 25%;
-  float: left;
-  padding-right: 5%;
-} */
