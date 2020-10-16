@@ -4,16 +4,15 @@ body {
 
 h1,h2,h3 {
   color: white;
- 
+
 }
 p {
   color: #fa7854;
 }
 
-
-
 li {
   color:#fa7854;
+  font-size: 20px;
 }
 
 .sidetext {
@@ -24,8 +23,6 @@ a {
   color:blue;
 }
 
-
- 
  .glen {
   text-align: center;
   color: rgb(250, 120, 84);
@@ -37,9 +34,6 @@ a {
   color: rgb(250, 120, 84);
   font-size: 35px;
 }
-
-
-
 .centerimage {
   display: block;
   margin-left: auto;
@@ -51,6 +45,7 @@ a {
   float: right;
   color: white;
   font-size: 20px;
+  padding: 10px;
 }
 
 .learn {
@@ -72,8 +67,6 @@ p.smalltext {
   color:white;
   font-size: 14px;
 }
-
-
 
 /* img {
   width: 25%;
