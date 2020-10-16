@@ -1,34 +1,74 @@
 body {
   background-color: black;
 }
+
+h1,h2,h3 {
+  color: white;
+ 
+}
+p {
+  color: #fa7854;
+}
+
+
+
+li {
+  color:#fa7854;
+}
+
+.sidetext {
+  color:white;
+}
+
+a {
+  color:blue;
+}
+
+
  
  .glen {
   text-align: center;
   color: rgb(250, 120, 84);
-  font-size: 70px;
+  font-size: 58px;
 }
 
 .glen1 {
   text-align: center;
   color: rgb(250, 120, 84);
-  font-size: 40px;
+  font-size: 35px;
 }
 
-p {
-  color: white;
-}
 
 
 .centerimage {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 24%;
+  width: 18%;
 }
 
 .sidebar {
-  float: left;
+  float: right;
+  color: white;
+  font-size: 20px;
 }
+
+.learn {
+  color: rgb(230, 16, 16);
+  background-color: #f3f5f4da;
+  font-style: normal;
+  font-size: 18px;
+}
+
+.best {
+  background-color: rgb(0, 0, 0);
+}
+
+p .leartext {
+  color: black;
+}
+
+
 
 /* img {
   width: 25%;
