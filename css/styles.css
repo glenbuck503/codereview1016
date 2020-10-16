@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+}
+ 
  .glen {
   text-align: center;
   color: rgb(250, 120, 84);
@@ -11,9 +15,23 @@
 }
 
 p {
-  color:red
+  color: white;
 }
 
-body {
-  background-color: black;
+
+.centerimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 24%;
 }
+
+.sidebar {
+  float: left;
+}
+
+/* img {
+  width: 25%;
+  float: left;
+  padding-right: 5%;
+} */
