@@ -46,8 +46,13 @@ li {
   font-size: 35px;
 }
 
+.glenbuck {
+  width: 100px;
+}
+
 .hobbies {
-  width: 8%
+  width: 100px;
+  
 }
 
 .learn {
@@ -76,4 +81,9 @@ p .leartext {
 p.smalltext {
   color:white;
   font-size: 14px;
+}
+
+.glenbuck {
+background-color: red;
+width: 50%;
 }
