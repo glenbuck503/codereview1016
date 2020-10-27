@@ -10,11 +10,12 @@ This is my portfolio page. This page will show a little about myself, including:
 
 ## Setup/Installation Requirements
 
-* Open your web browser
-* Type in glenbuck503.github.io/codereview1016 into the address bar and press enter
-* Enjoy reading about me.
-
-
+- Go to https://github.com/glenbuck503/codereview1016.
+- Go to the middle upper right corner where the green box that says "Code" and click it.
+- Copy the HTTPs site to your clipboard.
+- Open terminal or bash and get to the directory you want to download the repo to.
+- Type into the terminal "git clone command + v if using Mac or control + v is using a PC" and press enter.
+- Open the file labeled "index.html" in the directory you just downloaded the repo to.
 
 ## Known Bugs
 
@@ -26,13 +27,11 @@ If you have any issues viewing, please contact <a href = "mailto: glenbuck@gamil
 
 ## Technologies Used
 
-* VS Code
-* HTML/CSS
-* Git
-* Git Hub
+- VS Code
+- HTML/CSS
+- Git
+- Git Hub
 
 ### License
-
-
 
 Copyright (c) 2016 Glen Buck Inc.
